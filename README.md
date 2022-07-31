@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iwethi
+- 👋 Hi, I’m @lord-of-mahjong
 - 👀 I’m interested in ... crypto protocols and digitisation
 - 🌱 I’m currently learning ... about DeFi with neworder and (hopefully) solidity with @nonfungibleforest
 - 💞️ I’m looking to collaborate on ... writing abt new projects, building new projects
